@@ -5,16 +5,39 @@
 }
 
 a{
-    text-decoration: none;
-    color: black;
+    text-decoration: none;  
 }
 
 body{
-    background-color: white;
+    /* background-color: white; */
     font-family: Helvetica, sans-serif;
-    display: grid;
-    place-content: center;
+    /* display: grid; */
+    /* place-content: center; */
     min-height: 100vh;
+}
+
+.header__container{
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-around;
+    padding: .75rem;
+    background-color: hsl(25, 75%, 97%);
+    color: hsl(32, 96%, 71%);
+    
+    font-weight: 600;
+    font-size: 1.125rem;
+    
+}
+
+.header__items{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 1.5rem;
+}
+
+.items{
+    color: hsl(32, 96%, 71%);
+    font-weight: 600;
 }
 
 .container{
