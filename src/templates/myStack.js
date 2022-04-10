@@ -1,6 +1,6 @@
 const myStack = () => {
     const view = `
-        <div class="stack" id="stack">
+        <div class="stack">
             <h3>this is about my stack</h3>
         </div>
     `;

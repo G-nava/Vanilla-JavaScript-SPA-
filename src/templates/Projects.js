@@ -1,6 +1,6 @@
 const Project = () => {
     const view = `
-        <div class="projects" id="projects">
+        <div class="projects">
             <h3>this is about my projects</h3>
         </div>
     `;

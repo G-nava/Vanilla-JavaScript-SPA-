@@ -4677,7 +4677,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar About = function About() {\n  var view = \"\\n        <div class=\\\"about\\\" id=\\\"about\\\">\\n            <h3>this is about me!</h3>\\n        </div>\\n    \";\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (About);\n\n//# sourceURL=webpack://page-1/./src/templates/About.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar About = function About() {\n  var view = \"\\n        <div class=\\\"about\\\">\\n            <h3>this is about me!</h3>\\n        </div>\\n    \";\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (About);\n\n//# sourceURL=webpack://page-1/./src/templates/About.js?");
 
 /***/ }),
 
@@ -4688,7 +4688,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar Header = function Header() {\n  var view = \"\\n        <div class=\\\"header__container\\\">\\n            <div class=\\\"header__title\\\">\\n                <a class=\\\"item__title\\\" href=\\\"/\\\">Guajira Visuals</a>\\n            </div>\\n            <div class=\\\"header__items\\\">\\n                <a class=\\\"items\\\" href=\\\"#about\\\">About me</a>\\n                <a class=\\\"items\\\" href=\\\"#stack\\\">My stack</a>\\n                <a class=\\\"items\\\" href=\\\"#projects\\\">Projects</a>\\n            </div>\\n        </div>\\n    \";\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Header);\n\n//# sourceURL=webpack://page-1/./src/templates/Header.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar Header = function Header() {\n  var view = \"\\n        <div class=\\\"header\\\">\\n            <a class=\\\"header__items\\\">Home</a>\\n            <div class=\\\"header__items\\\">\\n                <a class=\\\"items\\\" href=\\\"/\\\">About me</a>\\n                <a class=\\\"items\\\" href=\\\"#/stack\\\">My stack</a>\\n                <a class=\\\"items\\\" href=\\\"#/projects\\\">Projects</a>\\n            </div>\\n        </div>\\n    \";\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Header);\n\n//# sourceURL=webpack://page-1/./src/templates/Header.js?");
 
 /***/ }),
 
@@ -4699,7 +4699,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar Project = function Project() {\n  var view = \"\\n        <div class=\\\"projects\\\" id=\\\"projects\\\">\\n            <h3>this is about my projects</h3>\\n        </div>\\n    \";\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Project);\n\n//# sourceURL=webpack://page-1/./src/templates/Projects.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar Project = function Project() {\n  var view = \"\\n        <div class=\\\"projects\\\">\\n            <h3>this is about my projects</h3>\\n        </div>\\n    \";\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Project);\n\n//# sourceURL=webpack://page-1/./src/templates/Projects.js?");
 
 /***/ }),
 
@@ -4710,7 +4710,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar myStack = function myStack() {\n  var view = \"\\n        <div class=\\\"stack\\\" id=\\\"stack\\\">\\n            <h3>this is about my stack</h3>\\n        </div>\\n    \";\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (myStack);\n\n//# sourceURL=webpack://page-1/./src/templates/myStack.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar myStack = function myStack() {\n  var view = \"\\n        <div class=\\\"stack\\\">\\n            <h3>this is about my stack</h3>\\n        </div>\\n    \";\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (myStack);\n\n//# sourceURL=webpack://page-1/./src/templates/myStack.js?");
 
 /***/ }),
 
@@ -4732,7 +4732,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar resolveRoutes = function resolveRoutes(route) {\n  if (route.length <= 3) {\n    var validRoute = route === '/' ? route : '/:id'; // let validRoute = route';\n\n    return validRoute;\n  }\n\n  return \"/\".concat(route);\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (resolveRoutes);\n\n//# sourceURL=webpack://page-1/./src/utils/resolveRoutes.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nvar resolveRoutes = function resolveRoutes(route) {\n  if (route.length <= 3) {\n    var validRoute = route === '/' ? route : '/:id';\n    return validRoute;\n  }\n\n  return \"/\".concat(route);\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (resolveRoutes);\n\n//# sourceURL=webpack://page-1/./src/utils/resolveRoutes.js?");
 
 /***/ })
 
