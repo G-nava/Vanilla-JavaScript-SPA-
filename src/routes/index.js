@@ -3,6 +3,7 @@ import "core-js/stable";
 import "regenerator-runtime/runtime";
 
 import Header   from '../templates/Header';
+import Main     from '../templates/Main'
 import About    from '../templates/About';
 import Projects from '../templates/Projects';
 import myStack  from '../templates/myStack';
@@ -13,7 +14,8 @@ import resolveRoutes from '../utils/resolveRoutes'
 
 const routes = {
     404: Error404,
-    "/": About,
+    "/": Main,
+    "/about": About,
     "/projects": Projects,
     "/stack": myStack
 }
